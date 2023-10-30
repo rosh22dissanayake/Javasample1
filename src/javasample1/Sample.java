@@ -9,11 +9,11 @@ package javasample1;
  *
  * @author Chathani
  */
-public class Sample {
-    int num=10;
-    String name = "roshan";
+public class Demo {
+    String fname = "Roshan";
+    String lname = "Dissanayake";
     
-    Sample(){
+    Demo(){
      System.out.println("Constructor called");
     }
     
